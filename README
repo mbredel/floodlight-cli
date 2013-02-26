@@ -1,0 +1,10 @@
+OpenFlow @ California Institute of Technology 
+OpenFlow for Link-Layer Multipath Switching (OLiMPS)
+
+Author: Michael Bredel
+Affiliation: California Institute of Technology, California 
+
+Summary:
+Command Line Interface (CLI) to Floodlight. The CLI module 
+offers a Cisco-like CLI to FLoodlight. You can log on to the
+CLI using an SSH client.
